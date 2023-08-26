@@ -15,4 +15,4 @@
     <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 </div>
 
-![snake gif](https://github.com/EduardoL0pes/EduardoL0pes/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/EduardoL0pes/EduardoL0pes/blob/output/github-contribution-grid-snake.svg)
