@@ -1,10 +1,10 @@
 ### Olá! Eu sou Eduardo Lopes! 🤙
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-<div>
+<!--<div>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EduardoL0pes&show_icons=true&theme=tokyonight">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoL0pes&size_weight=0.5&count_weight=0.5&theme=tokyonight">
-</div>
+</div>-->
 
 ## Tecnologias que utilizo
 
